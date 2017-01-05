@@ -1,6 +1,6 @@
 name: tableflip
 main: com.github.Kory33.tableflip.TableFlip
-version: 0.0.1-SNAPSHOT
+version: 0.0.1
 
 commands:
     tableflip:
