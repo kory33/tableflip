@@ -1,0 +1,12 @@
+name: tableflip
+main: com.github.Kory33.tableflip.TableFlip
+version: 0.0.1-SNAPSHOT
+
+commands:
+    tableflip:
+        description: chat TableFlip emo
+        usage: /tableflip text
+    unflip:
+        description: chat Unflip emo
+        usage: /unflip text
+
