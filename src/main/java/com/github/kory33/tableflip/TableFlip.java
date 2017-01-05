@@ -50,7 +50,7 @@ public class TableFlip extends GithubUpdateNotifyPlugin{
             return true;
         }
         Player senderPlayer = (Player) sender;
-        senderPlayer.chat("(╯°□°）╯︵ ┻━┻" + String.join(" ", args));
+        senderPlayer.chat("┬─┬﻿ ノ( ゜-゜ノ)" + String.join(" ", args));
         return true;
     }
 }
