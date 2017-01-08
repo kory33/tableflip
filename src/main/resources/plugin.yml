@@ -1,5 +1,5 @@
 name: tableflip
-main: com.github.Kory33.tableflip.TableFlip
+main: com.github.kory33.tableflip.TableFlip
 version: 0.0.1
 
 commands:
